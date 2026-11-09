@@ -4,15 +4,20 @@
     "time": 1794045156,
     "hash": "e5ec7bfe4ecccf587264a9582bb65950e8a77362"
   },
+  ".gitignore": {
+    "size": 105,
+    "time": 1794221420,
+    "hash": "19ea4b4289eea36c458e8d48e05aba5e5314d55a"
+  },
   "LICENSE": {
     "size": 20844,
     "time": 1794045156,
     "hash": "e5ec7bfe4ecccf587264a9582bb65950e8a77362"
   },
   "README.md": {
-    "size": 1642,
-    "time": 1794045156,
-    "hash": "e5ec7bfe4ecccf587264a9582bb65950e8a77362"
+    "size": 6107,
+    "time": 1794221420,
+    "hash": "19ea4b4289eea36c458e8d48e05aba5e5314d55a"
   },
   "assignments/.gitkeep": {
     "size": 0,
@@ -29,15 +34,65 @@
     "time": 1794045156,
     "hash": "e5ec7bfe4ecccf587264a9582bb65950e8a77362"
   },
+  "materials/syllabi/22AS22001.md": {
+    "size": 3526,
+    "time": 1794221420,
+    "hash": "19ea4b4289eea36c458e8d48e05aba5e5314d55a"
+  },
+  "materials/syllabi/22AS22002.md": {
+    "size": 3255,
+    "time": 1794221420,
+    "hash": "19ea4b4289eea36c458e8d48e05aba5e5314d55a"
+  },
+  "materials/syllabi/22AS22003.md": {
+    "size": 2754,
+    "time": 1794221420,
+    "hash": "19ea4b4289eea36c458e8d48e05aba5e5314d55a"
+  },
+  "materials/syllabi/22AS22004.md": {
+    "size": 2242,
+    "time": 1794221420,
+    "hash": "19ea4b4289eea36c458e8d48e05aba5e5314d55a"
+  },
+  "materials/syllabi/22AS22018.md": {
+    "size": 2390,
+    "time": 1794221420,
+    "hash": "19ea4b4289eea36c458e8d48e05aba5e5314d55a"
+  },
+  "materials/syllabi/22AS22025.md": {
+    "size": 3059,
+    "time": 1794221420,
+    "hash": "19ea4b4289eea36c458e8d48e05aba5e5314d55a"
+  },
+  "materials/syllabi/22AS46251.md": {
+    "size": 2150,
+    "time": 1794221420,
+    "hash": "19ea4b4289eea36c458e8d48e05aba5e5314d55a"
+  },
+  "materials/syllabi/22CE22005E.md": {
+    "size": 3834,
+    "time": 1794221420,
+    "hash": "19ea4b4289eea36c458e8d48e05aba5e5314d55a"
+  },
+  "materials/syllabi/22PH22011.md": {
+    "size": 2577,
+    "time": 1794221420,
+    "hash": "19ea4b4289eea36c458e8d48e05aba5e5314d55a"
+  },
+  "materials/syllabi/22PH22013C.md": {
+    "size": 10983,
+    "time": 1794221420,
+    "hash": "19ea4b4289eea36c458e8d48e05aba5e5314d55a"
+  },
   "notes/.gitkeep": {
     "size": 0,
     "time": 1794045156,
     "hash": "e5ec7bfe4ecccf587264a9582bb65950e8a77362"
   },
   "readme.toml": {
-    "size": 2148,
-    "time": 1794045156,
-    "hash": "e5ec7bfe4ecccf587264a9582bb65950e8a77362"
+    "size": 6033,
+    "time": 1794221420,
+    "hash": "19ea4b4289eea36c458e8d48e05aba5e5314d55a"
   },
   "slides/.gitkeep": {
     "size": 0,
