@@ -1,0 +1,5 @@
+# Local planning documents are not course content.
+plans/
+docs/plans/
+*-plan.md
+*-implementation-plan.md
